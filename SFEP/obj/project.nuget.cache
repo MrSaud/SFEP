@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6kHLIGgZbQUmvuE7NUjseQpqnsbXXDae0vgcpEpcErW4SYkoTn1dET6gmMGZcNSd9i//Sl3ZI6t3wZJOgFQmZw==",
+  "success": true,
+  "projectFilePath": "/Users/dev-saud/Desktop/SWAP Projects/SFEP/SFEP/SFEP.csproj",
+  "expectedPackageFiles": [
+    "/Users/dev-saud/.nuget/packages/microsoft.netcore.app.ref/6.0.26/microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "/Users/dev-saud/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.26/microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "/Users/dev-saud/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.26/microsoft.netcore.app.host.osx-arm64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
